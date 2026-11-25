@@ -1,0 +1,1 @@
+{"description":"The one word I would erase from the dictionary forever: goodbye.","engines":{"node":">=22.18"},"name":"delete-goodbye","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
